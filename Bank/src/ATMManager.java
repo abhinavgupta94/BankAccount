@@ -58,6 +58,8 @@ public class ATMManager implements Serializable {
             }
         	}
         	
+       /*  To Start the ATM Machine	*/
+        	
 /*        		
                 Scanner scan = new Scanner(System.in);
                 System.out.println("Enter the account number");
